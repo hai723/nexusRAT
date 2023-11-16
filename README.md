@@ -2,6 +2,7 @@
 [![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/hai723/nexusRAT/archive/refs/heads/master.zip)
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/g5pg9l)
 
+![Image Preview](https://img.shields.io/github/languages/top/hai723/nexusRAT?color=%238B0000&style=flat-square)
 ![Image Preview](https://img.shields.io/github/commit-activity/w/hai723/nexusRAT?color=%238B0000&style=flat-square)
 ![Image Preview](https://img.shields.io/github/last-commit/hai723/nexusRAT?color=%238B0000&logoColor=%238B0000&style=flat-square)
 ![Image Preview](https://img.shields.io/github/issues/hai723/nexusRAT?color=%238B0000&logoColor=%238B0000&style=flat-square)
