@@ -3,6 +3,7 @@
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/g5pg9l)
 
 ![Image Preview](https://img.shields.io/github/languages/top/hai723/nexusRAT?color=%238B0000&style=flat-square)
+![Image Preview](https://img.shields.io/github/languages/top/hai723/nexusRAT?color=%238B0000&style=flat-square)
 # .
 ### code by hai1723
 
