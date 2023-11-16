@@ -17,9 +17,8 @@ uac bypass + eror fake
 anti sand box analysis
 
 ### scan:
-<a href="https://www.virustotal.com/gui/file-analysis/YTgyNDZjZmQwYzY1MmJhMTk3MWYzMGQ4MmZhM2FmNmI6MTY5OTM2MjQwNA=="><img src="https://raw.githubusercontent.com/hai17233/storage/main/virustotal.jpg" height="50%"></a>
-![Image Preview](https://raw.githubusercontent.com/hai17233/storage/main/air.png)
-<a href="https://www.hybrid-analysis.com/sample/fc443c84e42aeac7f5bf38ac69075f01cff6db71aa832ff8303900bcef54a415"><img src="https://raw.githubusercontent.com/hai17233/storage/main/hybrid-analysis.png" height="50%"></a>
+https://www.virustotal.com/gui/file-analysis/YTgyNDZjZmQwYzY1MmJhMTk3MWYzMGQ4MmZhM2FmNmI6MTY5OTM2MjQwNA==
+https://www.hybrid-analysis.com/sample/fc443c84e42aeac7f5bf38ac69075f01cff6db71aa832ff8303900bcef54a415
 
 ## screenshot
 ![Image Preview](https://raw.githubusercontent.com/hai17233/storage/main/virustotalnexusrat.png)
