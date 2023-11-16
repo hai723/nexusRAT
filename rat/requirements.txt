@@ -1,0 +1,7 @@
+py-cord
+requests
+pillow
+pycryptodome
+pywin32
+
+
