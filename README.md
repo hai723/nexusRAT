@@ -8,6 +8,7 @@
 ![Image Preview](https://img.shields.io/github/last-commit/hai723/nexusRAT?color=blue&logocolor=blue&style=flat-square)
 ![Image Preview](https://img.shields.io/github/issues/hai723/nexusRAT?color=blue&logocolor=blue&style=flat-square)
 ![Image Preview](https://img.shields.io/github/issues-closed/hai723/nexusRAT?color=blue&logoColor=%23da467d&style=flat-square)
+[![Discord chat](https://img.shields.io/discord/1174679050455875636?logo=discord&logoColor=white)](https://discord.gg/NAwpFZVe9h)
 # .
 ### code by hai1723
 
