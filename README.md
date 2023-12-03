@@ -3,6 +3,7 @@ not thank thenoppy12
 
 [![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/hai723/nexusRAT/archive/refs/heads/master.zip)
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://youtu.be/mxCG-K9BbnY)
+[![Static Badge](https://img.shields.io/badge/github%20me-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hai723/hai1723info)
 
 ![Image Preview](https://img.shields.io/github/languages/top/hai723/nexusRAT?color=blue&style=flat-square)
 ![Image Preview](https://img.shields.io/github/stars/hai723/nexusRAT?color=blue&logocolor=blue&style=flat-square)
