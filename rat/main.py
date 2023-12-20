@@ -3,6 +3,7 @@ from setting import *
 from admin import *
 from block_sites import *
 from rat import *
+from rat import *
 import threading
 from startup import *
 from turnoff import *
